@@ -1,7 +1,6 @@
 import numpy as np
 import scipy.io
 import math
-import matplotlib.pyplot as plt
 import PIL
 
 mat = scipy.io.loadmat('mnist_small.mat')
